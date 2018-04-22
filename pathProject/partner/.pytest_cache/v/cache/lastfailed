@@ -1,0 +1,15 @@
+{
+  "test_All.py::test_CurveMaxExc": true,
+  "test_All.py::test_CurveMinExc": true,
+  "test_All.py::test_CurveOrderHigh": true,
+  "test_All.py::test_DataAdd": true,
+  "test_All.py::test_DataEval": true,
+  "test_All.py::test_DataGet": true,
+  "test_All.py::test_Eval": true,
+  "test_All.py::test_Slice": true,
+  "test_All.py::test_df2dx2": true,
+  "test_All.py::test_dfdx": true,
+  "test_All.py::test_index": true,
+  "test_All.py::test_indexNotAscend": true,
+  "test_All.py::test_indexOutBounds": true
+}
